@@ -5,10 +5,6 @@ Foi desenvolvido um buscador de CEP para estudar como funciona o react e seus co
 
 API: https://viacep.com.br/
 
-
-## Utilizando a o buscador
-Acesse: https://alisongfx.github.io/buscacep/
-
 ## Deploy
 
 Será necessário possuir o Node.js em sua máquina, faça o download abaixo.
